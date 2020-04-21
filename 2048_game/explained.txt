@@ -1,0 +1,4 @@
+this is a proyect of the clasic game of 2048 
+i code this game when i was a young programmer, when i have my first year as competitive programmer.
+
+mmm, i am boring, and say, "well, i think i'll be made a game c: " and, well, this is my creation c: 
