@@ -1,3 +1,5 @@
+// i use headers from windows, so, this code only compile on windows c:
+// enjoy c:, i believe :D
 #include<time.h>
 #include<conio.h>
 #include<stdlib.h>
