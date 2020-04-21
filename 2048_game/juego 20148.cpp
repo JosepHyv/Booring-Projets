@@ -256,4 +256,5 @@ main ()
    cout<<"Perdiste zorro";
    system("pause");
    return 0;
+    
 }
